@@ -5,3 +5,4 @@ touch up_to_date.txt
 cat up_to_date.txt
   touch up_to_date.txt
   cat up_to_date.txt
+git pull
