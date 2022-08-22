@@ -1,0 +1,7 @@
+#to add file
+touch up_to_date.txt
+
+#to add txet to created file
+cat up_to_date.txt
+  touch up_to_date.txt
+  cat up_to_date.txt
